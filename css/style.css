@@ -1,0 +1,243 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 1000px;
+    background:aqua;
+    border: 2px solid black;
+    margin: auto;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: orangered;
+    font-size: 35px; /* Размер шрифта */
+    font-family: sans-serif;
+    text-transform: capitalize;
+    margin: 20px 0;
+}
+
+.favicon {
+    width: 100px;
+    height: 40px;
+    background:darkcyan;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.favicon p {
+font-size: 20px;
+}
+
+.name {
+    width: 250px;
+}
+
+.group {
+    display: flex;
+}
+
+.glass {
+    width:max-content;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: darkcyan;
+    margin: 10px;
+    padding: 5px 30px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+.guard {
+    width: auto;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 10px 330px;
+    padding: 5px 30px;
+    background: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    width: 800px;
+    background: darkcyan;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+    padding: 10px 0;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 1000px;
+    border: 2px solid black;
+    margin: auto;
+    color: black;
+    background:rgb(218, 240, 253);
+    font-size: 25px;
+}
+
+.headrot {
+    width: auto;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px 60.8px;
+    background:aqua;
+}
+
+.window {
+    width: 450px;
+    height: 200px;
+    background: darkcyan;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ad {
+    width: 350px;
+    height: 200px;
+    background: darkcyan;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.windad {
+    display: flex;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.content {
+    display: flex;
+    height: auto;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.all {
+    width: 500px;
+    height: auto;
+    background:aqua;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.textst {
+    width: auto;
+    height: 350px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+    background:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comm {
+    width: auto;
+    height: 120px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+    background:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar {
+    background: aqua;
+    width: 250px;
+    height: auto;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.search {
+    width: auto;
+    height: 80px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+    background:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.follow {
+    width: auto;
+    height: 120px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+    background:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    width: auto;
+    height: 250px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+    background:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    width: 1000px;
+    border: 1px solid #000;
+    margin: auto;
+    background:aqua;
+    font-size: 25px;
+}
+
+.mfoot {
+    width: 700px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    background:darkcyan;
+}
+
+.copy {
+    width: 450px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    background:darkcyan;
+}
